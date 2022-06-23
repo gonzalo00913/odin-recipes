@@ -1,0 +1,36 @@
+.titulo{
+    background-color: rgb(126, 0, 0);
+    color: white;
+    font-size: 50px;
+    text-align: center;
+   
+
+}
+
+.titulo2{
+    background-color: rgb(126, 0, 0);
+    color: whitesmoke;
+    text-align: center;
+    font-size: 25px;
+}
+
+img{
+    width: auto;
+    height: auto;
+   
+}
+
+.list{
+    background-color: rgb(189, 180, 180);
+    font-size: 17px;
+    text-align:center;
+}
+
+
+
+
+
+
+body{
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+}

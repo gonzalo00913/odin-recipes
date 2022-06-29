@@ -3,7 +3,8 @@
     color: white;
     font-size: 50px;
     text-align: center;
-   
+    margin: 40px 20px 40px 20px;
+    
 
 }
 
@@ -12,21 +13,36 @@
     color: whitesmoke;
     text-align: center;
     font-size: 25px;
+    margin: 40px 20px 40px 20px;
+    
 }
 
-img{
+.img {
     width: auto;
     height: auto;
+    text-align: center;
    
 }
 
 .list{
-    background-color: rgb(189, 180, 180);
+    
     font-size: 17px;
     text-align:center;
+    margin-left: 750px ;
+    margin-right:750px ;
+}
+.list2{
+   
+    font-size: 17px;
+    text-align:center;
+    margin-left: 750px ;
+    margin-right:750px ;
 }
 
 
+.list-parra{
+    text-align: center;
+}
 
 
 
